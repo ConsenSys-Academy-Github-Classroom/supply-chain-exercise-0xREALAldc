@@ -66,8 +66,7 @@ annotation from the enum tests to proceed.
 
 How do we describe an item in our supply chain? It is a union of properties:
 `name`, `sku`, `price`, `state`, `seller` and `buyer`. We can use a Solidity
-`struct` to model this Item. Remove the `skip` annotation from the `Item
-struct` tests and proceed.
+`struct` to model this Item. 
 
   - [ ] should have a `name`
   - [ ] should have a `sku`
